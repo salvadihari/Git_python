@@ -1,0 +1,63 @@
+mkdir: cannot create directory ‘/home/Git’: File exists
+fatal: destination path 'example-voting-app' already exists and is not an empty directory.
+working dir is
+/home/hps/Git_python
+listing the dir files
+total 8
+-rw-r--r-- 1 root root   0 May 18 08:42 output.txt
+-rw-r--r-- 1 root root 142 May 18 08:30 README.md
+-rw-r--r-- 1 root root 570 May 18 08:31 sample.py
+creating a dir in /home/
+total 16
+drwxr-xr-x 4 cloudshell-user cloudshell-user 4096 May 17 14:41 cloudshell-user
+drwxr-xr-x 3 root            root            4096 May 18 08:19 Git
+drwxr-xr-x 4 root            root            4096 May 18 08:30 hps
+drwx------ 2 root            root            4096 May 12 12:43 lost+found
+listing the files in repo
+total 184
+-rw-r--r-- 1 root root 54824 May 18 08:19 architecture.png
+-rw-r--r-- 1 root root   893 May 18 08:19 docker-compose-javaworker.yml
+-rw-r--r-- 1 root root   602 May 18 08:19 docker-compose-k8s.yml
+-rw-r--r-- 1 root root   485 May 18 08:19 docker-compose-simple.yml
+-rw-r--r-- 1 root root  1107 May 18 08:19 docker-compose-windows-1809.yml
+-rw-r--r-- 1 root root   994 May 18 08:19 docker-compose-windows.yml
+-rw-r--r-- 1 root root   907 May 18 08:19 docker-compose.yml
+-rw-r--r-- 1 root root  1562 May 18 08:19 docker-stack-simple.yml
+-rw-r--r-- 1 root root  1037 May 18 08:19 docker-stack-windows-1809.yml
+-rw-r--r-- 1 root root  1284 May 18 08:19 docker-stack-windows.yml
+-rw-r--r-- 1 root root  1792 May 18 08:19 docker-stack.yml
+-rw-r--r-- 1 root root  2058 May 18 08:19 ExampleVotingApp.sln
+-rw-r--r-- 1 root root 40406 May 18 08:25 gitlog.txt
+-rw-r--r-- 1 root root  1182 May 18 08:19 Jenkinsfile
+drwxr-xr-x 2 root root  4096 May 18 08:19 k8s-specifications
+-rw-r--r-- 1 root root  3364 May 18 08:19 kube-deployment.yml
+-rw-r--r-- 1 root root 10758 May 18 08:19 LICENSE
+-rw-r--r-- 1 root root   185 May 18 08:19 MAINTAINERS
+-rw-r--r-- 1 root root  3574 May 18 08:19 README.md
+drwxr-xr-x 6 root root  4096 May 18 08:19 result
+drwxr-xr-x 5 root root  4096 May 18 08:19 vote
+drwxr-xr-x 6 root root  4096 May 18 08:19 worker
+redirecting the git log commits to gitlog.txt
+total 184
+-rw-r--r-- 1 root root 54824 May 18 08:19 architecture.png
+-rw-r--r-- 1 root root   893 May 18 08:19 docker-compose-javaworker.yml
+-rw-r--r-- 1 root root   602 May 18 08:19 docker-compose-k8s.yml
+-rw-r--r-- 1 root root   485 May 18 08:19 docker-compose-simple.yml
+-rw-r--r-- 1 root root  1107 May 18 08:19 docker-compose-windows-1809.yml
+-rw-r--r-- 1 root root   994 May 18 08:19 docker-compose-windows.yml
+-rw-r--r-- 1 root root   907 May 18 08:19 docker-compose.yml
+-rw-r--r-- 1 root root  1562 May 18 08:19 docker-stack-simple.yml
+-rw-r--r-- 1 root root  1037 May 18 08:19 docker-stack-windows-1809.yml
+-rw-r--r-- 1 root root  1284 May 18 08:19 docker-stack-windows.yml
+-rw-r--r-- 1 root root  1792 May 18 08:19 docker-stack.yml
+-rw-r--r-- 1 root root  2058 May 18 08:19 ExampleVotingApp.sln
+-rw-r--r-- 1 root root 40406 May 18 08:42 gitlog.txt
+-rw-r--r-- 1 root root  1182 May 18 08:19 Jenkinsfile
+drwxr-xr-x 2 root root  4096 May 18 08:19 k8s-specifications
+-rw-r--r-- 1 root root  3364 May 18 08:19 kube-deployment.yml
+-rw-r--r-- 1 root root 10758 May 18 08:19 LICENSE
+-rw-r--r-- 1 root root   185 May 18 08:19 MAINTAINERS
+-rw-r--r-- 1 root root  3574 May 18 08:19 README.md
+drwxr-xr-x 6 root root  4096 May 18 08:19 result
+drwxr-xr-x 5 root root  4096 May 18 08:19 vote
+drwxr-xr-x 6 root root  4096 May 18 08:19 worker
