@@ -1,9 +1,4 @@
-/bin/sh: Git: command not found
-/bin/sh: now: command not found
-/bin/sh: cloning: command not found
-Cloning into 'example-voting-app'...
-/bin/sh: line 0: cd: to: No such file or directory
-/bin/sh: now: command not found
+
 working dir is
 /home/hps/Git_python
 listing the dir files
