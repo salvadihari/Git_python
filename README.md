@@ -6,3 +6,6 @@ all commit changes will be copied to gotlog.txt file
 command to redirect the terminal output a file called output.txt
 
   python3 sample.py  2>&1 | tee output.txt 
+
+  adding some dummy lines
+
