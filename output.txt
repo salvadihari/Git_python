@@ -1,66 +1,8 @@
-Cloning into 'example-voting-app'...
-/bin/sh: line 0: cd: to: No such file or directory
-working dir is
-/home/hps/Git_python
-listing the dir files
-total 8
--rw-r--r-- 1 root root   0 May 18 10:21 output.txt
--rw-r--r-- 1 root root 252 May 18 08:56 README.md
--rw-r--r-- 1 root root 775 May 18 10:16 sample.py
-creating a Git dir in pwd
-Git dir is created
-total 12
-drwxr-xr-x 2 root root 4096 May 18 10:21 Git
--rw-r--r-- 1 root root    0 May 18 10:21 output.txt
--rw-r--r-- 1 root root  252 May 18 08:56 README.md
--rw-r--r-- 1 root root  775 May 18 10:16 sample.py
-now cd to Git dir
-cloning the github repo
-listing the files in repo
-total 144
--rw-r--r-- 1 root root 54824 May 18 10:21 architecture.png
--rw-r--r-- 1 root root   893 May 18 10:21 docker-compose-javaworker.yml
--rw-r--r-- 1 root root   602 May 18 10:21 docker-compose-k8s.yml
--rw-r--r-- 1 root root   485 May 18 10:21 docker-compose-simple.yml
--rw-r--r-- 1 root root  1107 May 18 10:21 docker-compose-windows-1809.yml
--rw-r--r-- 1 root root   994 May 18 10:21 docker-compose-windows.yml
--rw-r--r-- 1 root root   907 May 18 10:21 docker-compose.yml
--rw-r--r-- 1 root root  1562 May 18 10:21 docker-stack-simple.yml
--rw-r--r-- 1 root root  1037 May 18 10:21 docker-stack-windows-1809.yml
--rw-r--r-- 1 root root  1284 May 18 10:21 docker-stack-windows.yml
--rw-r--r-- 1 root root  1792 May 18 10:21 docker-stack.yml
--rw-r--r-- 1 root root  2058 May 18 10:21 ExampleVotingApp.sln
--rw-r--r-- 1 root root  1182 May 18 10:21 Jenkinsfile
-drwxr-xr-x 2 root root  4096 May 18 10:21 k8s-specifications
--rw-r--r-- 1 root root  3364 May 18 10:21 kube-deployment.yml
--rw-r--r-- 1 root root 10758 May 18 10:21 LICENSE
--rw-r--r-- 1 root root   185 May 18 10:21 MAINTAINERS
--rw-r--r-- 1 root root  3574 May 18 10:21 README.md
-drwxr-xr-x 6 root root  4096 May 18 10:21 result
-drwxr-xr-x 5 root root  4096 May 18 10:21 vote
-drwxr-xr-x 6 root root  4096 May 18 10:21 worker
-redirecting the git log commits to gitlog.txt
-now we can able to see the gitlog.txt file
-total 184
--rw-r--r-- 1 root root 54824 May 18 10:21 architecture.png
--rw-r--r-- 1 root root   893 May 18 10:21 docker-compose-javaworker.yml
--rw-r--r-- 1 root root   602 May 18 10:21 docker-compose-k8s.yml
--rw-r--r-- 1 root root   485 May 18 10:21 docker-compose-simple.yml
--rw-r--r-- 1 root root  1107 May 18 10:21 docker-compose-windows-1809.yml
--rw-r--r-- 1 root root   994 May 18 10:21 docker-compose-windows.yml
--rw-r--r-- 1 root root   907 May 18 10:21 docker-compose.yml
--rw-r--r-- 1 root root  1562 May 18 10:21 docker-stack-simple.yml
--rw-r--r-- 1 root root  1037 May 18 10:21 docker-stack-windows-1809.yml
--rw-r--r-- 1 root root  1284 May 18 10:21 docker-stack-windows.yml
--rw-r--r-- 1 root root  1792 May 18 10:21 docker-stack.yml
--rw-r--r-- 1 root root  2058 May 18 10:21 ExampleVotingApp.sln
--rw-r--r-- 1 root root 40406 May 18 10:21 gitlog.txt
--rw-r--r-- 1 root root  1182 May 18 10:21 Jenkinsfile
-drwxr-xr-x 2 root root  4096 May 18 10:21 k8s-specifications
--rw-r--r-- 1 root root  3364 May 18 10:21 kube-deployment.yml
--rw-r--r-- 1 root root 10758 May 18 10:21 LICENSE
--rw-r--r-- 1 root root   185 May 18 10:21 MAINTAINERS
--rw-r--r-- 1 root root  3574 May 18 10:21 README.md
-drwxr-xr-x 6 root root  4096 May 18 10:21 result
-drwxr-xr-x 5 root root  4096 May 18 10:21 vote
-drwxr-xr-x 6 root root  4096 May 18 10:21 worker
+Cloning into 'Git_python'...
+total 16
+-rw-r--r-- 1 root root 2974 May 20 08:15 gitlog.txt
+-rw-r--r-- 1 root root 3334 May 20 08:15 output.txt
+-rw-r--r-- 1 root root  280 May 20 08:15 README.md
+-rw-r--r-- 1 root root  775 May 20 08:15 sample.py
+this is target dir : /home/hps/practice/Git_python
+this is pwd /home/hps/practice/Git_python
