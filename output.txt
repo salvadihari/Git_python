@@ -1,8 +1,0 @@
-Cloning into 'Git_python'...
-total 16
--rw-r--r-- 1 root root 2974 May 20 08:15 gitlog.txt
--rw-r--r-- 1 root root 3334 May 20 08:15 output.txt
--rw-r--r-- 1 root root  280 May 20 08:15 README.md
--rw-r--r-- 1 root root  775 May 20 08:15 sample.py
-this is target dir : /home/hps/practice/Git_python
-this is pwd /home/hps/practice/Git_python
