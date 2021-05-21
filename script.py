@@ -12,7 +12,7 @@ def subprocess_cmd(command):
 def git_dir():
 
     get_split_url_dir = git_clone_url.split("/")
-    print("",get_split_url_dir)
+    print("splitting the url at / ",get_split_url_dir)
     get_dir = get_split_url_dir[-1].split(".")[-2]
     print("work_dir is: ", get_dir)
     repo_dir = os.getcwd() + "\\" + get_dir
