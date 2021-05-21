@@ -1,0 +1,116 @@
+commit 254e2cb52ca310ed9c9d6635523da6479f809ef7
+Author: root <root@ip-10-0-92-235.ec2.internal>
+Date:   Fri May 21 08:04:19 2021 +0000
+
+    updating the files
+
+commit 91e24cd56fac97068cd9fad7f0c90884675d7f17
+Author: salvadihari <prasadhari680@gmail.com>
+Date:   Thu May 20 08:22:13 2021 +0000
+
+    updating the python script anf files
+
+commit b13e772afd920ed31da8b26e0da4da80884885d1
+Author: root <root@ip-10-0-24-19.ec2.internal>
+Date:   Wed May 19 07:16:50 2021 +0000
+
+    added dummy chamge
+
+commit c6f2be4c080a9c4263355db4acdd1da2576fcd36
+Merge: 666a261 479b95f
+Author: root <root@ip-10-0-24-19.ec2.internal>
+Date:   Wed May 19 07:15:14 2021 +0000
+
+    Merge branch 'main' of https://github.com/salvadihari/Git_python into main
+
+commit 666a261db334c18e1c4a479fe848494d4f702165
+Author: root <root@ip-10-0-24-19.ec2.internal>
+Date:   Wed May 19 07:14:01 2021 +0000
+
+    added dummy lines to the file
+
+commit 479b95fe6ba53933dc7437a318c90171dd921bea
+Author: salvadihari <41267832+salvadihari@users.noreply.github.com>
+Date:   Tue May 18 15:52:21 2021 +0530
+
+    Update README.md
+
+commit ac136317e7cc6cc10671c9a045c8538ccfd4f529
+Merge: c58e4c5 a053fca
+Author: root <root@ip-10-1-32-105.ec2.internal>
+Date:   Tue May 18 10:21:32 2021 +0000
+
+    updated changes
+
+commit c58e4c5a0a61ee2735a875f82318346c1f945886
+Author: root <root@ip-10-1-32-105.ec2.internal>
+Date:   Tue May 18 10:18:10 2021 +0000
+
+    again updated the changes
+
+commit a053fcabb839e40f561fd480d1e5a9dee2947e90
+Author: salvadihari <41267832+salvadihari@users.noreply.github.com>
+Date:   Tue May 18 15:35:49 2021 +0530
+
+    Update output.txt
+
+commit d6acfa126fdcd3d6929bda0e99bc32efe2480ceb
+Author: root <root@ip-10-1-32-105.ec2.internal>
+Date:   Tue May 18 10:01:36 2021 +0000
+
+    updated the changes
+
+commit 211367733f1e09a9bb7548e97388608ec51d1554
+Merge: 9ff54cc 9c4a11b
+Author: root <root@ip-10-1-32-105.ec2.internal>
+Date:   Tue May 18 09:47:33 2021 +0000
+
+    updated filies
+
+commit 9ff54ccbbd71343faffa028d98f44b2f5c2460d9
+Author: root <root@ip-10-1-32-105.ec2.internal>
+Date:   Tue May 18 09:40:36 2021 +0000
+
+    updated the code
+
+commit e5232532bc79587189a6edd4c1a6870c5b17d3be
+Author: root <root@ip-10-1-32-105.ec2.internal>
+Date:   Tue May 18 09:38:11 2021 +0000
+
+    updated the code
+
+commit 9c4a11b396fc9ff37441ff6429d6c9274c3d0cac
+Author: salvadihari <41267832+salvadihari@users.noreply.github.com>
+Date:   Tue May 18 14:30:01 2021 +0530
+
+    Update output.txt
+
+commit a336c562e8764a36dbf9b63e814596a7c3677f4a
+Author: root <root@ip-10-1-32-105.ec2.internal>
+Date:   Tue May 18 08:58:03 2021 +0000
+
+    updated the python code README.md file
+
+commit 326b15f0e1d43418d81367acc18f1e4d7c48c853
+Author: root <root@ip-10-1-32-105.ec2.internal>
+Date:   Tue May 18 08:43:12 2021 +0000
+
+    adding the output.txt file
+
+commit 98b0ef698e7d298665a82323624c35a05a458d17
+Author: root <root@ip-10-1-32-105.ec2.internal>
+Date:   Tue May 18 08:33:02 2021 +0000
+
+    adding the sample.py file
+
+commit addb5cef000dd79daa21ab544385016c1f618bc3
+Author: salvadihari <41267832+salvadihari@users.noreply.github.com>
+Date:   Tue May 18 13:59:59 2021 +0530
+
+    Update README.md
+
+commit cffeb9bb7a1474b0c1257aca74904298ec40361f
+Author: salvadihari <41267832+salvadihari@users.noreply.github.com>
+Date:   Tue May 18 13:57:45 2021 +0530
+
+    Initial commit
