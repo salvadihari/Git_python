@@ -1,3 +1,27 @@
+commit d66c6ec5f1a091df62143b4029dca7f8000ece0a
+Author: salvadihari <41267832+salvadihari@users.noreply.github.com>
+Date:   Fri May 21 21:22:28 2021 +0530
+
+    Update script.py
+
+commit 6d9964ea8de6792955022610a6a8cef2f1a9c181
+Author: salvadihari <41267832+salvadihari@users.noreply.github.com>
+Date:   Fri May 21 17:53:24 2021 +0530
+
+    Update script.py
+
+commit f2940a33a03c195c5ea3ad71806af0604b93cd22
+Author: salvadihari <41267832+salvadihari@users.noreply.github.com>
+Date:   Fri May 21 16:03:39 2021 +0530
+
+    Update script.py
+
+commit 55a31940eb92661f82ecdf42bda09f66e208e745
+Author: salvadihari <prasadhari680@gmail.com>
+Date:   Fri May 21 15:31:25 2021 +0530
+
+    updated the script file
+
 commit 254e2cb52ca310ed9c9d6635523da6479f809ef7
 Author: root <root@ip-10-0-92-235.ec2.internal>
 Date:   Fri May 21 08:04:19 2021 +0000
