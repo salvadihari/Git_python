@@ -1,6 +1,5 @@
 import subprocess
 import os
-import os.path
 import shutil
 
 # gitgub repo link
@@ -16,9 +15,8 @@ print("dir_path is: ", dir_path)
 
 
 def subprocess_cmd(command):
-    subprocess.run(command, stdout=subprocess.PIPE, shell=True)
+    subprocess.run(command, shell=True)
 
-    return change_dir()
 
 
 def del_dir():
@@ -27,8 +25,8 @@ def del_dir():
         if os.path.exists(dir_path):
             print ("dir_path exist")
             shutil.rmtree(dir_path, ignore_errors=False, onerror=None)
-
-
+            print("deleted existing repo dir")
+            subprocess_cmd(git_clone_url)
         else:
             print ("dir_path does not exist")
             subprocess_cmd(git_clone_url)
@@ -39,8 +37,8 @@ def del_dir():
 
 def change_dir():
 
-    cd_dir = os.chdir(dir_path)
-    print("we are in cloned dir now: ", cd_dir)
+    os.chdir(dir_path)
+    print("we are in cloned dir now: ", os.getcwd())
 
     output = subprocess.run('git log > xyz.txt', shell=True)
     print("output.txt file is generated with gitlog commits: ",output)
@@ -48,6 +46,4 @@ def change_dir():
 
 
 del_dir()
-subprocess_cmd(get_dir)
-#subprocess_cmd(git_clone_url)
 change_dir()
