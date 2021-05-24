@@ -17,10 +17,8 @@ print("dir_path is: ", dir_path)
 def subprocess_cmd(command):
     subprocess.run(command, shell=True)
 
-
-
+    
 def del_dir():
-
     try:
         if os.path.exists(dir_path):
             print ("dir_path exist")
@@ -30,18 +28,16 @@ def del_dir():
         else:
             print ("dir_path does not exist")
             subprocess_cmd(git_clone_url)
-
     except OSError as e:
         print("Error: %s : %s" % (dir_path, e.strerror))
 
 
 def change_dir():
-
     os.chdir(dir_path)
     print("we are in cloned dir now: ", os.getcwd())
 
     output = subprocess.run('git log > xyz.txt', shell=True)
-    print("output.txt file is generated with gitlog commits: ",output)
+    print("xyz.txt file is generated with gitlog commits: ",output)
 
 
 
