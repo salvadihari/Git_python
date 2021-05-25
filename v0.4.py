@@ -6,7 +6,7 @@ import shutil
 # gitgub repo link
 git_clone_url = "git clone https://github.com/salvadihari/Git_python.git"
 
-git_log = 'git log > xyz.txt | ls -l '
+git_log = 'git log > xyz.txt'
 
 get_split_url_dir = git_clone_url.split("/")
 print("splitting the url at / ",get_split_url_dir)
